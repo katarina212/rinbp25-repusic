@@ -1,0 +1,480 @@
+[{
+  "_id": "f8e7a729-9e76-47e8-9aac-0dd9860fecab",
+  "ime": "Željko",
+  "prezime": "Lukić",
+  "predmet": "Kemija"
+},
+{
+  "_id": "c9827703-e2a1-4992-93f9-9ae4fdc4d09f",
+  "ime": "Dario",
+  "prezime": "Knežević",
+  "predmet": "Kemija"
+},
+{
+  "_id": "9113e7f4-aaa0-465b-9e6a-50a0a5e6e21b",
+  "ime": "Tomislav",
+  "prezime": "Đurić",
+  "predmet": "Povijest"
+},
+{
+  "_id": "58b4aee3-c098-4f73-9887-f3b9e650b60b",
+  "ime": "Ante",
+  "prezime": "Milinović",
+  "predmet": "Hrvatski jezik"
+},
+{
+  "_id": "4b63dbb8-2d10-4b4a-8cd8-6185fecfb5ad",
+  "ime": "Martina",
+  "prezime": "Prskalo",
+  "predmet": "Matematika"
+},
+{
+  "_id": "deb6f25a-18e9-4084-9af0-820942952750",
+  "ime": "Ivana",
+  "prezime": "Vuković",
+  "predmet": "Hrvatski jezik"
+},
+{
+  "_id": "cab65e44-ef7b-4563-a59e-526fb02d552c",
+  "ime": "Željko",
+  "prezime": "Milinović",
+  "predmet": "Matematika"
+},
+{
+  "_id": "16544020-1bd1-48c5-b5ae-7c8a26da1743",
+  "ime": "Dario",
+  "prezime": "Đurić",
+  "predmet": "Povijest"
+},
+{
+  "_id": "1196b2b1-6ea2-48c3-a82e-35f8dfd9c74f",
+  "ime": "Marija",
+  "prezime": "Lukić",
+  "predmet": "Povijest"
+},
+{
+  "_id": "743003c1-ae63-4d1c-b862-34503c8a1aca",
+  "ime": "Željko",
+  "prezime": "Marković",
+  "predmet": "Fizika"
+},
+{
+  "_id": "f48f3762-1b27-43ac-8926-953c4e1790ca",
+  "ime": "Dario",
+  "prezime": "Marković",
+  "predmet": "Likovni"
+},
+{
+  "_id": "7151a081-02a5-467d-a3bd-7c7106515838",
+  "ime": "Goran",
+  "prezime": "Đurić",
+  "predmet": "Engleski jezik"
+},
+{
+  "_id": "c6d3b68b-97ae-48be-9c04-2635e4149763",
+  "ime": "Sandra",
+  "prezime": "Đurić",
+  "predmet": "Engleski jezik"
+},
+{
+  "_id": "450adc12-607c-44d3-9366-97e2ecc6cad9",
+  "ime": "Ante",
+  "prezime": "Horvat",
+  "predmet": "Fizika"
+},
+{
+  "_id": "9b09b539-29b9-4d3b-b936-21d8bf10efcd",
+  "ime": "Željko",
+  "prezime": "Marković",
+  "predmet": "Hrvatski jezik"
+},
+{
+  "_id": "c926dc73-bc1a-47fa-8a39-bd5d38cc9e0f",
+  "ime": "Ivana",
+  "prezime": "Barišić",
+  "predmet": "Fizika"
+},
+{
+  "_id": "c781f8ba-213c-4547-90a7-89eb6b29be16",
+  "ime": "Sandra",
+  "prezime": "Milinović",
+  "predmet": "Likovni"
+},
+{
+  "_id": "60199cd8-8780-451a-a43d-e31fc780538e",
+  "ime": "Ante",
+  "prezime": "Đurić",
+  "predmet": "Matematika"
+},
+{
+  "_id": "5b8cc6f6-201c-43ca-bdfa-0ebffd487b7b",
+  "ime": "Sandra",
+  "prezime": "Knežević",
+  "predmet": "Biologija"
+},
+{
+  "_id": "d4f6d767-38ad-4334-aa60-f1450f904419",
+  "ime": "Marija",
+  "prezime": "Marković",
+  "predmet": "Matematika"
+},
+{
+  "_id": "f6c05b94-1339-4bb8-a775-9621aeadb314",
+  "ime": "Sandra",
+  "prezime": "Đurić",
+  "predmet": "Glazbeni"
+},
+{
+  "_id": "f034c873-5334-4aa3-979b-c4f5330247fc",
+  "ime": "Marija",
+  "prezime": "Marković",
+  "predmet": "Glazbeni"
+},
+{
+  "_id": "41db803d-c0c1-4db6-9272-cc3c2eada077",
+  "ime": "Martina",
+  "prezime": "Katić",
+  "predmet": "Engleski jezik"
+},
+{
+  "_id": "f0a5a3af-06ec-41e5-8377-6df77add9fb1",
+  "ime": "Marija",
+  "prezime": "Vuković",
+  "predmet": "Likovni"
+},
+{
+  "_id": "f04676b9-096e-4ff9-8758-d0a1c25290fa",
+  "ime": "Sandra",
+  "prezime": "Prskalo",
+  "predmet": "Geografija"
+},
+{
+  "_id": "ca6de219-cc6b-4c4a-af2e-13b1723f6058",
+  "ime": "Nina",
+  "prezime": "Lukić",
+  "predmet": "Povijest"
+},
+{
+  "_id": "c42edb21-2a2e-4ece-b2ad-8844d88dc027",
+  "ime": "Ante",
+  "prezime": "Horvat",
+  "predmet": "Povijest"
+},
+{
+  "_id": "ab3bb57e-027c-4615-a211-d8b46998a923",
+  "ime": "Ante",
+  "prezime": "Vuković",
+  "predmet": "Povijest"
+},
+{
+  "_id": "1e4bfb03-07e6-41ca-9608-031cd5204af9",
+  "ime": "Ivana",
+  "prezime": "Marković",
+  "predmet": "Glazbeni"
+},
+{
+  "_id": "c5db6e6f-1072-47e2-847d-e6b28791c3f3",
+  "ime": "Tomislav",
+  "prezime": "Horvat",
+  "predmet": "Matematika"
+},
+{
+  "_id": "a92d46d3-a5f7-44a7-9136-ad738ea6544d",
+  "ime": "Ivana",
+  "prezime": "Đurić",
+  "predmet": "Biologija"
+},
+{
+  "_id": "65a83bc5-60da-43b9-9eca-d0a2d1fd77f7",
+  "ime": "Ante",
+  "prezime": "Katić",
+  "predmet": "Fizika"
+},
+{
+  "_id": "9f7ce47e-01e1-44f7-9b06-a8cea355f162",
+  "ime": "Nina",
+  "prezime": "Marković",
+  "predmet": "Glazbeni"
+},
+{
+  "_id": "e10f680e-59e7-46a4-8749-f3688efc12f0",
+  "ime": "Dario",
+  "prezime": "Marković",
+  "predmet": "Biologija"
+},
+{
+  "_id": "1f6e5274-c977-4c5d-9bab-eae3fc176d8e",
+  "ime": "Ante",
+  "prezime": "Horvat",
+  "predmet": "Povijest"
+},
+{
+  "_id": "4db33882-c8f8-4933-9185-710cb27d5893",
+  "ime": "Goran",
+  "prezime": "Horvat",
+  "predmet": "Glazbeni"
+},
+{
+  "_id": "23495560-50da-4038-8d45-f6f3ddeae5a6",
+  "ime": "Martina",
+  "prezime": "Marković",
+  "predmet": "Hrvatski jezik"
+},
+{
+  "_id": "349b2d02-98c9-4906-b6cd-8ca83b14acb9",
+  "ime": "Goran",
+  "prezime": "Lukić",
+  "predmet": "Kemija"
+},
+{
+  "_id": "efb3ba24-d48a-4abd-b1f3-79919a87358d",
+  "ime": "Marija",
+  "prezime": "Katić",
+  "predmet": "Matematika"
+},
+{
+  "_id": "8d0f8ec3-a9ba-4f15-baa0-fedf0f9e23ee",
+  "ime": "Sandra",
+  "prezime": "Katić",
+  "predmet": "Glazbeni"
+},
+{
+  "_id": "73e9fae2-ee26-41e5-b5d4-cf2f3b717aed",
+  "ime": "Nina",
+  "prezime": "Milinović",
+  "predmet": "Likovni"
+},
+{
+  "_id": "3f4fd8aa-1b3f-48d9-be83-8da96934fe0f",
+  "ime": "Ivana",
+  "prezime": "Prskalo",
+  "predmet": "Glazbeni"
+},
+{
+  "_id": "6a5a27b3-0ca7-40d7-91a6-307516d0dcd5",
+  "ime": "Ante",
+  "prezime": "Đurić",
+  "predmet": "Matematika"
+},
+{
+  "_id": "8074b9fa-da8c-4c3c-b8fe-5bb69515f2cb",
+  "ime": "Sandra",
+  "prezime": "Milinović",
+  "predmet": "Kemija"
+},
+{
+  "_id": "78d5c8fe-6257-4dc6-9955-e76c9933b37e",
+  "ime": "Sandra",
+  "prezime": "Marković",
+  "predmet": "Fizika"
+},
+{
+  "_id": "11b27d5f-b35b-48db-80b1-fd16b679316d",
+  "ime": "Željko",
+  "prezime": "Prskalo",
+  "predmet": "Glazbeni"
+},
+{
+  "_id": "aea336c8-a4d5-4798-868f-21a46ce95299",
+  "ime": "Ante",
+  "prezime": "Milinović",
+  "predmet": "Biologija"
+},
+{
+  "_id": "c414692a-644a-40b6-a3a6-7c9d5270aeac",
+  "ime": "Goran",
+  "prezime": "Katić",
+  "predmet": "Glazbeni"
+},
+{
+  "_id": "4a38ae8a-a3fe-4e4f-9027-6a293526298e",
+  "ime": "Goran",
+  "prezime": "Barišić",
+  "predmet": "Glazbeni"
+},
+{
+  "_id": "12fcead5-4769-4dce-8534-a484b016dc72",
+  "ime": "Željko",
+  "prezime": "Vuković",
+  "predmet": "Hrvatski jezik"
+},
+{
+  "_id": "0f8d7414-f31e-4141-8d51-cc51abb3b25e",
+  "ime": "Sandra",
+  "prezime": "Milinović",
+  "predmet": "Matematika"
+},
+{
+  "_id": "f6e83b2f-9935-431b-a1e7-360e35e1da69",
+  "ime": "Ivana",
+  "prezime": "Knežević",
+  "predmet": "Matematika"
+},
+{
+  "_id": "5f4018c6-44df-41fa-b6a7-9300c4ab23f4",
+  "ime": "Sandra",
+  "prezime": "Horvat",
+  "predmet": "Kemija"
+},
+{
+  "_id": "e25d45a7-848a-41eb-bd69-77eb09ca2cf3",
+  "ime": "Željko",
+  "prezime": "Milinović",
+  "predmet": "Engleski jezik"
+},
+{
+  "_id": "c1c189ef-ad50-4c2d-b364-fdfce7fe4f53",
+  "ime": "Ante",
+  "prezime": "Barišić",
+  "predmet": "Likovni"
+},
+{
+  "_id": "db8007d3-5fb7-44c5-ac12-f0cf395d0d22",
+  "ime": "Martina",
+  "prezime": "Marković",
+  "predmet": "Kemija"
+},
+{
+  "_id": "e74e79b0-8c4c-47db-80d9-93879147098d",
+  "ime": "Ivana",
+  "prezime": "Prskalo",
+  "predmet": "Biologija"
+},
+{
+  "_id": "211bc055-f2f7-44c2-8b34-d2099cd91835",
+  "ime": "Martina",
+  "prezime": "Đurić",
+  "predmet": "Hrvatski jezik"
+},
+{
+  "_id": "f7f37c3e-b469-426d-ba65-62f6b7f6a951",
+  "ime": "Goran",
+  "prezime": "Milinović",
+  "predmet": "Glazbeni"
+},
+{
+  "_id": "f40d7ba6-4355-4848-8e0b-6f6b27b340b1",
+  "ime": "Martina",
+  "prezime": "Lukić",
+  "predmet": "Likovni"
+},
+{
+  "_id": "1dd24368-2461-40a4-9c92-f55bb4b85d8d",
+  "ime": "Željko",
+  "prezime": "Đurić",
+  "predmet": "Likovni"
+},
+{
+  "_id": "b6625f72-4a65-4d09-83dd-e096d58c4f17",
+  "ime": "Tomislav",
+  "prezime": "Prskalo",
+  "predmet": "Povijest"
+},
+{
+  "_id": "abdeea85-79b1-4e06-9972-dd0ef0ea10fe",
+  "ime": "Goran",
+  "prezime": "Barišić",
+  "predmet": "Matematika"
+},
+{
+  "_id": "50883139-7591-4a6d-ae23-3502480e08ef",
+  "ime": "Ivana",
+  "prezime": "Lukić",
+  "predmet": "Biologija"
+},
+{
+  "_id": "f7b5faca-4f72-41bd-82d8-9feed3896d37",
+  "ime": "Dario",
+  "prezime": "Knežević",
+  "predmet": "Povijest"
+},
+{
+  "_id": "c8312f2d-67d7-44dc-b370-fac2ee24234e",
+  "ime": "Tomislav",
+  "prezime": "Katić",
+  "predmet": "Fizika"
+},
+{
+  "_id": "9c568d5e-5ce4-4c20-a6cc-f154b7204d53",
+  "ime": "Goran",
+  "prezime": "Milinović",
+  "predmet": "Kemija"
+},
+{
+  "_id": "331e00bb-0b48-4ef6-bea7-09be75d07f65",
+  "ime": "Goran",
+  "prezime": "Đurić",
+  "predmet": "Fizika"
+},
+{
+  "_id": "25ddf178-1e2d-4bb5-9df4-a9bfdcb308cc",
+  "ime": "Tomislav",
+  "prezime": "Milinović",
+  "predmet": "Engleski jezik"
+},
+{
+  "_id": "aafcf483-96f1-4f75-b23d-62003b3164c8",
+  "ime": "Goran",
+  "prezime": "Knežević",
+  "predmet": "Fizika"
+},
+{
+  "_id": "d7f45072-5f65-47ea-b10b-f3cf973d4934",
+  "ime": "Ivana",
+  "prezime": "Barišić",
+  "predmet": "Matematika"
+},
+{
+  "_id": "a00230a7-d3fb-4b78-beb8-03c27a757d9f",
+  "ime": "Sandra",
+  "prezime": "Milinović",
+  "predmet": "Likovni"
+},
+{
+  "_id": "92b49ec4-fcaf-4e9b-95ef-809e26205ef3",
+  "ime": "Ante",
+  "prezime": "Lukić",
+  "predmet": "Kemija"
+},
+{
+  "_id": "b6348cc2-90c4-45d4-b19b-e867d744bcb7",
+  "ime": "Tomislav",
+  "prezime": "Katić",
+  "predmet": "Likovni"
+},
+{
+  "_id": "0dfa7424-072b-4c72-8e47-e8c6229cd989",
+  "ime": "Goran",
+  "prezime": "Marković",
+  "predmet": "Likovni"
+},
+{
+  "_id": "d3dee45a-cb8e-4e83-bb0d-ccf9c15855d6",
+  "ime": "Ante",
+  "prezime": "Lukić",
+  "predmet": "Povijest"
+},
+{
+  "_id": "9f824e48-f483-443f-8a29-6a750e41d897",
+  "ime": "Ante",
+  "prezime": "Vuković",
+  "predmet": "Fizika"
+},
+{
+  "_id": "4dfe6e0f-9fe2-49ad-99a4-3c5cf413b5fe",
+  "ime": "Marija",
+  "prezime": "Milinović",
+  "predmet": "Geografija"
+},
+{
+  "_id": "c2527bdc-c4fe-4a28-ba0c-33945a1c3776",
+  "ime": "Ivana",
+  "prezime": "Knežević",
+  "predmet": "Biologija"
+},
+{
+  "_id": "3d27d7ae-816d-494c-8451-781417e72ae9",
+  "ime": "Ante",
+  "prezime": "Katić",
+  "predmet": "Hrvatski jezik"
+}]
