@@ -22,13 +22,14 @@ db.once('open', () => {
 
 // ===== SCHEMAS =====
 const BiljeskaSchema = new mongoose.Schema({
-  _id: String, 
+  _id: String, // UUID kao string
   ucenik_id: String,
   nastavnik_id: String,
   predmet: String,
   tekst: String,
   datum: String
-}, { _id: false }); 
+}, { _id: false }); // Da koristiš svoj _id
+
 const Biljeska = mongoose.model('Biljeska', BiljeskaSchema, 'biljeske');
 
 const Ucenik = mongoose.model('Ucenik', new mongoose.Schema({
@@ -43,7 +44,7 @@ const Ucenik = mongoose.model('Ucenik', new mongoose.Schema({
 // Dodaj bilješku (POST)
 app.post('/api/biljeske', async (req, res) => {
   try {
-    const nova = new Biljeska({ _id: req.body._id, ...req.body }); 
+    const nova = new Biljeska({ _id: req.body._id, ...req.body }); // koristiš svoj _id iz frontenda
     await nova.save();
     res.status(201).json({ poruka: 'Bilješka dodana!' });
   } catch (err) {
