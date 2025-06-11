@@ -44,7 +44,7 @@ const Ucenik = mongoose.model('Ucenik', new mongoose.Schema({
 // Dodaj bilješku (POST)
 app.post('/api/biljeske', async (req, res) => {
   try {
-    const nova = new Biljeska({ _id: req.body._id, ...req.body }); 
+    const nova = new Biljeska({ _id: req.body._id, ...req.body }); // koristiš svoj _id iz frontenda
     await nova.save();
     res.status(201).json({ poruka: 'Bilješka dodana!' });
   } catch (err) {
