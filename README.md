@@ -91,7 +91,20 @@ The goal is to provide schools with a simple yet effective interface for managin
 
 ---
 
+## Pokretanje aplikacije lokalno
+Prije pokretanja, provjeri da imaš instaliran Node.js i MongoDB.
+1. Pokretanje servera (backend)
+u terminalu :
+cd aplikacija_biljeske/server
+node server.js
+Server će se pokrenuti na http://localhost:5000
 
+2. Pokretanje klijenta (frontend)
+U drugom terminalu:
+cd aplikacija_biljeske/client
+npm install   # samo prvi put
+npm start
+Aplikacija će se otvoriti u pregledniku na http://localhost:3000
 
 
 
